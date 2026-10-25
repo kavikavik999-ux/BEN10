@@ -1,0 +1,6 @@
+{
+  "name": "Ben 10: Alien Force Battle Arena",
+  "description": "Authentic 2D landscape action game featuring Ben Tennyson and his iconic Omnitrix alien transformations battling Vilgax and alien drones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
